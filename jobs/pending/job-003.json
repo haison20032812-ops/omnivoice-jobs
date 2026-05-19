@@ -1,0 +1,9 @@
+{
+  "job_id": "job-003",
+  "status": "pending",
+  "text": "Xin chào, đây là job thứ ba được xử lý bằng OmniVoice trên Google Colab.",
+  "voice_sample_path": "/content/drive/MyDrive/OmniVoiceRemote/inputs/sample.wav",
+  "ref_text": "",
+  "output_path": "/content/drive/MyDrive/OmniVoiceRemote/outputs/job-003.wav",
+  "created_at": "2026-05-19T03:35:50.522247"
+}
