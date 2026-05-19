@@ -1,10 +1,11 @@
 {
   "job_id": "bonamem-commercial-voice-001",
-  "status": "processing",
+  "status": "done",
   "text": "Sau phẫu thuật implant. Mô ghép cần được bảo vệ ổn định. Để hỗ trợ quá trình tái tạo xương. Màng collagen hỗ trợ che phủ vùng ghép. Và tạo môi trường thuận lợi cho lành thương. Bonamem. Màng collagen sinh học dành cho nha khoa tái tạo. Linh hoạt. Dễ thao tác. Và ổn định trong quá trình lành thương. Hỗ trợ tái tạo xương có hướng dẫn. Cho các quy trình nha khoa hiện đại. Waldent Biotech. Đồng hành cùng nha khoa tái tạo.",
   "voice_sample_path": "/content/drive/MyDrive/OmniVoiceRemote/inputs/sample.wav",
   "ref_text": "",
   "output_path": "/content/drive/MyDrive/OmniVoiceRemote/outputs/bonamem-commercial-voice-001.wav",
   "created_at": "2026-05-19T10:44:18.930343",
-  "started_at": "2026-05-19T04:05:39.818901"
+  "started_at": "2026-05-19T04:05:39.818901",
+  "finished_at": "2026-05-19T04:06:24.816056"
 }
