@@ -4,5 +4,6 @@
   "text": "Xin chào, đây là job đầu tiên được xử lý bằng OmniVoice trên Google Colab.",
   "voice_sample_path": "/content/drive/MyDrive/OmniVoiceRemote/inputs/sample.wav",
   "ref_text": "",
-  "output_path": "/content/drive/MyDrive/OmniVoiceRemote/outputs/job-001.wav"
+  "output_path": "/content/drive/MyDrive/OmniVoiceRemote/outputs/job-001.wav",
+  "created_at": "2026-05-19T03:22:56.667963"
 }
