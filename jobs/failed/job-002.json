@@ -1,0 +1,12 @@
+{
+  "job_id": "job-002",
+  "status": "failed",
+  "text": "Xin chào, đây là job thứ hai được xử lý bằng OmniVoice trên Google Colab.",
+  "voice_sample_path": "/content/drive/MyDrive/OmniVoiceRemote/inputs/sample.wav",
+  "ref_text": "",
+  "output_path": "/content/drive/MyDrive/OmniVoiceRemote/outputs/job-002.wav",
+  "created_at": "2026-05-19T03:30:14.595888",
+  "started_at": "2026-05-19T03:31:14.033708",
+  "error": "Command failed: python /content/OmniVoice/infer.py --text Xin chào, đây là job thứ hai được xử lý bằng OmniVoice trên Google Colab. --ref_audio /content/drive/MyDrive/OmniVoiceRemote/inputs/sample.wav --output /content/drive/MyDrive/OmniVoiceRemote/outputs/job-002.wav",
+  "failed_at": "2026-05-19T03:31:15.951874"
+}
