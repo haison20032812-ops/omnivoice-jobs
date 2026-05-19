@@ -1,9 +1,0 @@
-{
-  "job_id": "bonabone-commercial-voice-001",
-  "status": "pending",
-  "text": "",
-  "voice_sample_path": "/content/drive/MyDrive/OmniVoiceRemote/inputs/sample.wav",
-  "ref_text": "",
-  "output_path": "/content/drive/MyDrive/OmniVoiceRemote/outputs/bonabone-commercial-voice-001.wav",
-  "created_at": "2026-05-19T07:04:33.834Z"
-}
